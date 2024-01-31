@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is the Link to the [Front-end](https://reactjobly-frontend.onrender.com)
+This is the Link to the [Back-end](https://reactjobly-7ak8.onrender.com)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
